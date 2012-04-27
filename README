@@ -1,0 +1,38 @@
+# HTC HD2 Android ROM
+** @author Aternus **
+** @author tung91 **
+
+## Features
+
+### Core
+based on MIUI 2.4.13
+major code refactoring & cleanup
+revamped installation script sets proper system permissions and parameters
+debug library - see "/data/mymiui-init-debug.log" for a complete debug log
+app2sd
+cache2data
+zipalign
+IPv6 enabled
+full busybox integration
+bi-directional (RTL/LTR)
+removed rarely used apps (miui stats, antispam, email, etc...)
+3G connection prefix appears in the status bar (when enabled)
+99% of all available APNs
+totally new hosts file with ad/hijack/virus blocks
+GPU tweaks
+media tweaks
+system tweaks
+network tweaks
+GPS/AGPS config (default: europe)
+
+### Style
+customized boot animation (currently disabled)
+MIUI V4 (ICS) theme - updated to the latest version
+
+### Apps
+GPS Status 3.8.1 (required for AGPS)
+ES File Explorer 1.6.1.3
+
+#### Credits
+##### XDA-Developers
+[...]
